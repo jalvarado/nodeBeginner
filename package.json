@@ -1,0 +1,22 @@
+{
+  "name": "nodeBeginner",
+  "version": "0.0.0",
+  "description": "Node Beginner example application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jalvarado/nodeBeginner.git"
+  },
+  "author": "jcalvarad@gmail.com",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jalvarado/nodeBeginner/issues"
+  },
+  "dependencies": {
+    "ejs": "0.8.x"
+  }
+}
